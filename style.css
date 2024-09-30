@@ -1,0 +1,139 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto;
+    height: 100vh;
+    padding: 10px;
+    background-color: lightblue;
+    color: black;
+}
+.box1{
+    border: 2px solid black;
+    /* margin: 2px; */
+    background-color: blue;
+    border-radius: 20px;
+
+   
+}
+.box2{
+    border: 2px solid black;
+    /* margin: 10px; */
+    background-color: blue;
+    grid-column: span 2;
+    border-radius: 20px;
+   
+}
+.box3{
+    border: 2px solid black;
+    /* margin: 10px; */
+    background-color: blue;
+    grid-row: span 3;
+   
+}
+.box4{
+    
+    border: 2px solid plum;
+    /* margin: 10px; */
+   background-color: purple;
+   border-radius: 20px;
+ 
+}
+.box5{
+    border: 2px solid plum;
+    /* margin: 10px; */
+   background-color: purple;
+   border-radius: 20px;
+}
+.box6{
+    border: 2px solid plum;
+    /* margin: 10px; */
+    background-color: purple;
+    border-radius: 20px;
+   
+}
+.box7{
+    border: 2px solid black;
+    /* margin: 10px; */
+    background-color: blue;
+    grid-column: span 2;
+    border-radius: 20px;
+   
+}
+.box8{
+    border: 2px solid black;
+    /* margin: 10px; */
+    background-color: blue;
+   
+}
+.box9{
+    border: 2px solid black;
+    /* margin: 10px; */
+    background-color: blue;
+    border-radius: 20px;
+   
+}
+.box10{
+    border: 2px solid plum;
+    /* margin: 10px; */
+    background-color: purple;
+    border-radius: 20px;
+   
+}
+.box11{
+    border: 2px solid plum;
+    /* margin: 10px; */
+    background-color: purple;
+    border-radius: 20px;
+   
+}
+.box12{
+    border: 2px solid plum;
+    /* margin: 10px; */
+    background-color: purple;
+    border-radius: 20px;
+   
+}
+.box13{
+    border: 2px solid black;
+    /* margin: 10px; */
+    background-color: blue;
+    border-radius: 20px;
+   
+}
+.box14{
+    border: 1px solid black;
+    /* margin: 20px; */
+    background-color: blue;
+    border-radius: 20px;
+   
+}
+.box15{
+    border: 1px solid black;
+    /* margin: 10px; */
+    background-color: blue;
+    border-radius: 20px;
+   
+}
+.box16{
+    border: 2px solid plum;
+    /* margin: 10px; */
+    background-color: purple;
+    border-radius: 20px;
+   
+}.box17{
+    border:  2px solid plum;
+    /* margin: 10px; */
+    background-color: purple;
+    border-radius: 20px;
+   
+}
+.box18{
+     border: 2px solid plum; 
+    /* margin: 10px; */
+    background-color: purple;
+    border-radius: 20px;
+   
+}
